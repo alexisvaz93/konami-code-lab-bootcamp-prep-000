@@ -12,12 +12,11 @@ const codes = [
 ];
 
 
-var index = 0;
+let index = 0;
 
 function init() {
 
   function KeyPress(e) {
-
     const key = e.key;
 
     if (key === alphabet[index]) {
