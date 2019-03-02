@@ -35,4 +35,4 @@ function init() {
 
 }
 
-document.onkeydown = KeyPress;
+//document.onkeydown = KeyPress;
