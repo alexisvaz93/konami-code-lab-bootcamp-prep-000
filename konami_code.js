@@ -11,9 +11,11 @@ const codes = [
   "a"
 ];
 
+var index = 0;
+
+
 function init() {
 
-  var index = 0;
 
   function KeyPress(e) {
 
